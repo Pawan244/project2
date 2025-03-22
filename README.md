@@ -1,4 +1,3 @@
 # New Project
 
-This project was created from local system. Created by Pawan Yadav.
-hiiiii
+This project was created from local system. Created by Pawan Yadav
